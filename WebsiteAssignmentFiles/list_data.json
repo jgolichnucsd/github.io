@@ -1,22 +1,22 @@
 {
-	"movies": [
+	"artists": [
 		{
-			"Title": "Lost In Translation",
-			"Director": "Sofia Coppola",
-			"Rating": "R",
-			"Year": "2003"
+			"Title": "Starry Night",
+			"Artist": "Van Gogh",
+			"Rating": "*****",
+			"Link": "https://sanctuarymentalhealth.org/wp-content/uploads/2021/03/The-Starry-Night-1200x630-1-979x514.jpg"
 		},
 		{
-			"Title": "Casino Royale",
-			"Director": "Martin Campbell",
-			"Rating": "PG-13",
-			"Year": "2006"
+			"Title": "Water Lilies",
+			"Artist": "Monet",
+			"Rating": "*",
+			"Link": "https://www.claude-monet.com/assets/img/paintings/water-lilies-harmony-in-blue.jpg"
 		},
 		{
-			"Title": "The Dark Knight",
-			"Director": "Christopher Nolan",
-			"Rating": "PG-13",
-			"Year": "2008"
+			"Title": "The Creation of Adam",
+			"Director": "Da Vinki",
+			"Rating": "**",
+			"Link": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_txCTm1f1226APOtr28XGIIgMUIXRX8yosw&s"
 		}
 	]
 }
